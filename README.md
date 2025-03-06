@@ -1,0 +1,1 @@
+// SIMPLE CODE OF JAVA
