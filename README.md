@@ -1,1 +1,1 @@
-// SIMPLE CODE OF JAVA
+// stone paper sisor game hai 
