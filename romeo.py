@@ -1,5 +1,5 @@
 
-# rock-paper-scissors-game
+# rock-paper-scissors
 import random
 
 u_points = 0
